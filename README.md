@@ -12,4 +12,3 @@ Models and Methods Used
 - K-Means Clustering
 - LASSO Regression
 - XGBoost Regression
-- Manual and automatic hypertuning of parameters
